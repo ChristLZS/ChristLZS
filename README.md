@@ -121,9 +121,8 @@ class ChristLZS:
 
 ## 📫 Connect with Me
 
-<!-- TODO: 把下面链接换成你自己的真实账号 -->
 <p align="center">
-  <a href="mailto:你的邮箱@example.com">
+  <a href="mailto:mr.lizhisheng@gmail.com">
     <img src="https://img.shields.io/badge/Email-b5179e?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
   <a href="https://github.com/ChristLZS">
