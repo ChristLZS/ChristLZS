@@ -1,5 +1,5 @@
 <!-- ┌─────────────────────────────────────────────────────────────┐ -->
-<!-- │   ChristLZS · 李之胜 · GitHub Profile                        │ -->
+<!-- │   ChristLZS · GitHub Profile                                 │ -->
 <!-- │   Theme: Cyber Neon Purple 🟣                                │ -->
 <!-- └─────────────────────────────────────────────────────────────┘ -->
 
@@ -22,10 +22,9 @@
     <img src="https://img.shields.io/github/followers/ChristLZS?label=Followers&style=flat-square&color=7209b7&logo=github" alt="followers" />
   </a>
   <img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20ML-3a0ca3?style=flat-square" alt="focus" />
-  <img src="https://img.shields.io/badge/Location-Shanghai%2C%20China-b5179e?style=flat-square&logo=googlemaps&logoColor=white" alt="location" />
 </p>
 
-<!-- 彩虹流光分隔线 -->
+<!-- 霓虹分隔线 -->
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="divider" />
 
 ## 🧑‍💻 About Me
@@ -35,7 +34,6 @@
 ```python
 class ChristLZS:
     def __init__(self):
-        self.name        = "李之胜 (Jerry)"
         self.role        = "Full-Stack Developer & ML Enthusiast"
         self.languages   = ["Python", "Go", "Rust", "TypeScript", "C++"]
         self.stack       = ["Vue", "Django", "Go-Frame", "PyTorch", "MySQL"]
@@ -48,16 +46,13 @@ class ChristLZS:
 
 <br clear="both" />
 
-<!-- 彩虹流光分隔线 -->
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="divider" />
-
 ## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,go,rust,ts,js,cpp,vue,django,pytorch,tensorflow,opencv,mysql,docker,linux,git,vscode&theme=dark&perline=8" alt="skill icons" />
 </p>
 
-<!-- 彩虹流光分隔线 -->
+<!-- 霓虹分隔线 -->
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="divider" />
 
 ## 📊 GitHub Stats
@@ -71,13 +66,9 @@ class ChristLZS:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChristLZS&theme=radical&hide_border=true&background=0d1117&ring=b5179e&fire=7209b7&currStreakLabel=b5179e" alt="streak" />
 </p>
 
-<!-- ====================  贡献活跃度曲线  ==================== -->
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ChristLZS&theme=tokyo-night&bg_color=0d1117&color=b5179e&line=7209b7&point=ffffff&hide_border=true&area=true" alt="activity graph" />
 </p>
-
-<!-- 彩虹流光分隔线 -->
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="divider" />
 
 ## 🧊 3D Contribution Skyline
 
@@ -93,16 +84,7 @@ class ChristLZS:
   <img src="https://raw.githubusercontent.com/ChristLZS/ChristLZS/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
-<!-- 彩虹流光分隔线 -->
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="divider" />
-
-## 🏆 Trophies
-
-<p align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=ChristLZS&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
-</p>
-
-<!-- 彩虹流光分隔线 -->
+<!-- 霓虹分隔线 -->
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="divider" />
 
 ## 🌟 Featured Projects
@@ -115,15 +97,9 @@ class ChristLZS:
 | 🥾 [trail-atlas](https://github.com/ChristLZS/trail-atlas) | 山野路书 · 国内经典徒步路线攻略 | `HTML` |
 | ⚙️ [gfast](https://github.com/ChristLZS/gfast) | 基于 Go-Frame 的后台管理系统 | `Go` `Vue` |
 
-<!-- 彩虹流光分隔线 -->
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="divider" />
-
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:mr.lizhisheng@gmail.com">
-    <img src="https://img.shields.io/badge/Email-b5179e?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
-  </a>
   <a href="https://github.com/ChristLZS">
     <img src="https://img.shields.io/badge/GitHub-7209b7?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
